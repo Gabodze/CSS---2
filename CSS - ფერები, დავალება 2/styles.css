@@ -1,0 +1,92 @@
+@font-face {
+    font-family: 'Inter';
+    src: url(./fonts/Inter/Inter-Bold.ttf);
+}
+@font-face {
+    font-family:'Inter';
+    src: url(./fonts/Inter/Inter-Regular.ttf);
+}
+
+
+body{
+    background-color: black;
+}
+
+h1{
+    margin-top: 25px;
+    margin-left: 31px;
+    color: #767676;
+    font-family: 'Inter';
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 39px;
+    text-align: left;
+}
+
+h5{
+    margin-left: 31px;
+    color: #767676;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+
+}
+.about{
+    margin-top: 78px;
+    margin-left: 31px;
+    
+}
+p{
+    color: #ffffff;
+    font-family: 'Inter';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    text-align: left;
+
+}
+
+.p1, .p2{ 
+    margin-top: 20px;
+    margin-left: 32px;
+}
+.hard-skills{
+    margin-top: 117px;
+    margin-left: 32px;
+}
+
+.writing-and-more{
+    margin-top: 134px;
+    margin-left: 31px;
+}
+
+.sposhe{
+    margin-top: 20px;
+    margin-left: 31px;
+}
+
+.p3{
+    margin-top: 15px;
+    margin-left: 31px;
+}
+
+.poisson{
+    margin-top: 44px;
+    margin-left: 31px;
+}
+
+h6{
+   color:  #767676;
+   font-family: 'Inter';
+   font-size: 14px;
+   font-weight: 700;
+   line-height: 17px;
+   text-align: left;
+}
+
+.p4{
+    margin-top: 13px;
+    margin-left: 31px;
+}
